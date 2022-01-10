@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gu Qin, Han Fu, Music
 - 🌱 I’m currently learning C++/JavaScript/TypeScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email:kk2246@wfd.edu.ug
+- 📫 How to reach me mailto:kk2246#wfd.edu.ug
 
 <!---
 ganyuanzhen/ganyuanzhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
