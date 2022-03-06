@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ganyuanzhen
 - 👀 I’m interested in Gu Qin, Han Fu, Music
 - 🌱 I’m currently learning C++/JavaScript/TypeScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Linux-Muilti-Arch-Store
 - 📫 How to reach me mailto:kk2246#wfd.edu.ug
 
 <!---
