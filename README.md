@@ -1,3 +1,4 @@
+> we are changing the world, one commit at a time
 - 👋 Hi, I’m @ganyuanzhen
 - 👀 I’m interested in Gu Qin, Han Fu, Music
 - 🌱 I’m currently learning C++/JavaScript/TypeScript
