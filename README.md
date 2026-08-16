@@ -1,5 +1,7 @@
 > we are changing the world, one commit at a time
 
+![elysia-best's GitHub stats](https://github-stats-extended.vercel.app/api?username=elysia-best)
+
 - 👋 Hi, I’m @elysia-best
 - 👀 I’m interested in coding, music and drawing
 - 🌱 I’m currently working on Linux apps and other opensource apps
